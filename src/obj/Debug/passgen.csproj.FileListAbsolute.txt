@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\passgen\bin\Debug\passgen.exe.config
+C:\Users\User\source\repos\passgen\bin\Debug\passgen.exe
+C:\Users\User\source\repos\passgen\bin\Debug\passgen.pdb
+C:\Users\User\source\repos\passgen\obj\Debug\passgen.csprojAssemblyReference.cache
+C:\Users\User\source\repos\passgen\obj\Debug\passgen.Form1.resources
+C:\Users\User\source\repos\passgen\obj\Debug\passgen.Properties.Resources.resources
+C:\Users\User\source\repos\passgen\obj\Debug\passgen.csproj.GenerateResource.cache
+C:\Users\User\source\repos\passgen\obj\Debug\passgen.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\passgen\obj\Debug\passgen.exe
+C:\Users\User\source\repos\passgen\obj\Debug\passgen.pdb
